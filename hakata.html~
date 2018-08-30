@@ -7,7 +7,6 @@
   <body>
     <h1>博多ラーメン</h1>
     <img src="./picture/hakata-ramen.png" alt="">
-    <link rel="stylesheet" href="hakata.css">
     <p>
       福岡県福岡市を中心に提供されている豚骨スープとストレートの細麺をベースにしたラーメン</br>
       麺の硬さを注文する点や、替え玉も当ラーメンの特徴

@@ -7,7 +7,6 @@
   <body>
     <h1>函館ラーメン</h1>
     <img src="./picture/hakodate-ramen.png" alt="">
-    <link rel="stylesheet" href="hakata.css">
     <p>
       北海道函館市の周辺で提供されている塩ラーメン。</br>
       豚骨や鶏ガラの出汁に塩たれを入れた透明なスープが特徴で、使用される麺は柔らかめの中太ストレート麺。

@@ -2,3 +2,9 @@ img {
     width: 45%;
     height: auto;
 }
+
+
+body {
+  background-image: url("./picture/mokume.png");
+  background-size: cover;
+}
